@@ -21,7 +21,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="ToastyPlugin">
-                <param name="android-package" value="com.BNKsolution.cordova.plugin.toastyplugintest"/>
+                <param name="android-package" value="com.BNKsolution.toastyplugintest"/>
             </feature>
         </config-file>
 

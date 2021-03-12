@@ -20,10 +20,10 @@
         "ecosystem:cordova",
         "cordova-android"
     ],
-    "engines": [{
+    "engines": {
         "name": "cordova",
         "version": ">=3.0.0"
-    }],
+    },
     "author": "Vu Vo <vu.vo@bnksolution.com>",
     "license": "MIT",
     "bugs": {
