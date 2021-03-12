@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vohoanvu/CordovaPluginWrapperTest.git"
+        "url": "git+https://github.com/vohoanvu/CordovaToastPluginTest.git"
     },
     "keywords": [
         "Toast",
@@ -20,14 +20,14 @@
         "ecosystem:cordova",
         "cordova-android"
     ],
-    "engines": {
+    "engines": [{
         "name": "cordova",
         "version": ">=3.0.0"
-    },
+    }],
     "author": "Vu Vo <vu.vo@bnksolution.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/vohoanvu/CordovaPluginWrapperTest/issues"
+        "url": "https://github.com/vohoanvu/CordovaToastPluginTest/issues"
     },
-    "homepage": "https://github.com/vohoanvu/CordovaPluginWrapperTest/"
+    "homepage": "https://github.com/vohoanvu/CordovaToastPluginTest/"
 }

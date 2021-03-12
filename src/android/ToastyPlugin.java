@@ -1,4 +1,4 @@
-package com.BNKsolution.toastyplugintest;
+package com.bnkvuvo.toastyplugintest;
 // The native Toast API
 import android.widget.Toast;
 // Cordova-required packages
